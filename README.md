@@ -1,6 +1,6 @@
 # Math Blast 🎮
 
-**Math Blast** is a gem-matching puzzle game where you solve math problems to earn moves — developed as my A-Level Computer Science NEA. It combines mathematics, game design, and accessibility to create a rewarding educational experience.
+**Math Blast** is a gem-matching puzzle game where you solve math problems to earn moves — developed as a personal project. It combines mathematics, game design, and accessibility to create a rewarding educational experience.
 
 ![image](https://github.com/user-attachments/assets/62eccb8a-42ec-4491-858a-749835c11142)
 ![image](https://github.com/user-attachments/assets/1a0ec5f1-b5ee-4a47-8a1c-bad4d5bd5ffc)
